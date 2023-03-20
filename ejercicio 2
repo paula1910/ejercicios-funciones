@@ -1,0 +1,7 @@
+//Ejercicio 2
+
+//Definir la función
+function saluda(nombre){
+let nombre  = "Paula";
+      return "Hola" + nombre + ", ¿Qué tal?";
+}
