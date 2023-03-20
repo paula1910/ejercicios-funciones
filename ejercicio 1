@@ -1,0 +1,12 @@
+//Ejercicio 1
+
+//Definir la función 
+function producto( x1,x2){
+    return x1 * x2;
+}
+
+//Llamada a la función 
+
+let res_prod = producto(3,7);
+
+console.log("El resultado de multiplicar 3 y 5 es", res_prod);
