@@ -1,0 +1,13 @@
+//Ejercicio 5 
+
+//Definir la función 
+function división(a,b){
+   if(b == 0 ){
+      console.log("No se puede dividir por 0 ")
+   }else{
+       return a / b;
+   }
+}
+
+let sol = division(a_1, a_2);
+console.log("El resultado es " + sol);
